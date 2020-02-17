@@ -3,7 +3,7 @@ def using_while(phrase)
 	
 	counter = 6
 while counter < 10 
-puts "Wingardium Leviosa"
+puts "Wingardium Leviosa."
 
 
 counter += 1
