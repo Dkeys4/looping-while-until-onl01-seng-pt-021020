@@ -1,7 +1,7 @@
 def using_while(phrase)
   levitation_force = 6
 	
-	counter = 0 
+	counter = 6
 while counter < 10 
 puts "Wingardium Leviosa"
 
